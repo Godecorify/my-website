@@ -1,0 +1,22 @@
+/* Apply background image to the whole page */
+body {
+    background-image: url('images/dark-green-bg.png'); /* Update based on your new file name */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+
+/* Style the text content */
+.content {
+    background: rgba(0, 0, 0, 0.5); /* Adds a slight overlay for readability */
+    padding: 20px;
+    border-radius: 10px;
+}
