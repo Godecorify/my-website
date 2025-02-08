@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const messages = [
         "Your space, reimagined beautifully.",
         "Designs that inspire.",
-        "Transform your room, transform your life."
+        "Go Decór with Ify - GoDecórify Your Space"
     ];
     let index = 0;
 
